@@ -2,8 +2,6 @@
 
 Welcome to the **Walmart Retail Analysis Dashboard**, a visually rich and dynamic Excel dashboard created to gain deep insights into retail performance across **Sales**, **Profit**, **Regions**, **Categories**, and **Customer Segments**. This dashboard enables quick decision-making through interactive visuals and filters.
 
-![Dashboard Overview](./Walmart%20Anaysis%20Dashboard.png)
-
 ---
 
 ## 📘 Project Overview
@@ -38,7 +36,6 @@ This dashboard captures and displays Walmart's retail data across multiple dimen
 | Count of Order ID    | No. of Orders  | 📌         | 128722           |
 | Sum of Profit Margin | Profit Margin  | 🔍         | 128269           |
 
-![KPI Table](./d96346a0-7962-4a5a-bb6b-b7b543ca12aa.png)
 
 ---
 
@@ -99,7 +96,6 @@ Sample of returned orders:
 | Yes      | ES-2011-1276768 | EU            |
 | Yes      | MX-2013-131247  | LATAM         |
 
-![Returned Orders](./c1cbd682-0e4f-41ca-9a99-5016cbd2bc20.png)
 
 ---
 
@@ -142,9 +138,9 @@ You can explore the data using various **slicers** for better analysis:
 ## 🙋‍♀️ Created By
 
 **👩 Megha Saxena**
-📍 Bhopal, India
-📧 [saxena.megha666@gmail.com](mailto:saxena.megha666@gmail.com)
-🎓 B.Tech CSE (VIT Bhopal)
-🛠️ Skills: Excel, Data Visualization, UI/UX.
+  📍 Bhopal, India
+  📧 [saxena.megha666@gmail.com](mailto:saxena.megha666@gmail.com)
+  🎓 B.Tech CSE (VIT Bhopal)
+  🛠️ Skills: Excel, Data Visualization, UI/UX.
 
 ---
