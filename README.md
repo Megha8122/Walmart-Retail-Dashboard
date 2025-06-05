@@ -137,7 +137,7 @@ You can explore the data using various **slicers** for better analysis:
 
 ## 🙋‍♀️ Created By
 
-**👩 Megha Saxena**
+*👩 Megha Saxena
 * 📍 Bhopal, India
 * 📧 [saxena.megha666@gmail.com](mailto:saxena.megha666@gmail.com)
 * 🎓 B.Tech CSE (VIT Bhopal)
