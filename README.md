@@ -138,9 +138,10 @@ You can explore the data using various **slicers** for better analysis:
 ## 🙋‍♀️ Created By
 
 **👩 Megha Saxena**
-  📍 Bhopal, India
-  📧 [saxena.megha666@gmail.com](mailto:saxena.megha666@gmail.com)
-  🎓 B.Tech CSE (VIT Bhopal)
-  🛠️ Skills: Excel, Data Visualization, UI/UX.
+* 📍 Bhopal, India
+* 📧 [saxena.megha666@gmail.com](mailto:saxena.megha666@gmail.com)
+* 🎓 B.Tech CSE (VIT Bhopal)
+* 🛠️ Skills: Excel, Data Visualization, UI/UX, Frontend Development
+
 
 ---
